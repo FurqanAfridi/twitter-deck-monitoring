@@ -52,7 +52,7 @@ LOGGER.setLevel(logging.DEBUG)
 
 
 # Required Values
-CHATGPT_API = "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"
+CHATGPT_API = ""
 PROMPT = """Execute the below for a Twitter Comment Blueprint:
 
 Mandatory
